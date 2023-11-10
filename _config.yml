@@ -19,8 +19,12 @@ author: Mats Esseldeurs
 # --- List of links in the navigation bar --- #
 ###############################################
 
+include:
+  - _pages
+
 navbar-links:
   About ATOMIUM: "aboutATOMIUM"
+  Consortium Members: "ConsortiumMembers"
   Posts:
     - First results: "/2020-09-17-Astronomers-capture-stellar-winds"
 
@@ -100,19 +104,19 @@ share-links-active:
 # url-pretty: "astro-atomium.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
