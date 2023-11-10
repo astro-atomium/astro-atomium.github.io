@@ -23,10 +23,17 @@ include:
   - _pages
 
 navbar-links:
-  About ATOMIUM: "aboutATOMIUM"
-  Consortium Members: "ConsortiumMembers"
+  Scientific output:
+    - Publications: "Publications"
+    - Presentations: "Presentations"
+    - Internal Data Base: "https://atomium.ster.kuleuven.be/"
+    - Meetings: "Meetings"
+    - Outreach: "Outreach"
   Posts:
     - First results: "/2020-09-17-Astronomers-capture-stellar-winds"
+  About:
+    - About ATOMIUM: "aboutATOMIUM"
+    - Consortium Members: "ConsortiumMembers"
 
 ################
 # --- Logo --- #
