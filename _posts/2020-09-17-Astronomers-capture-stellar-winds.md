@@ -2,17 +2,18 @@
 layout: post
 title: The first ATOMIUM result is out !
 subtitle: Astronomers capture stellar winds in unprecedented detail
-# cover-img: /assets/img/postcard_2020.jpeg
+cover-img: /assets/img/R-Aquilae.jpg
 thumbnail-img: /assets/img/postcard_2020.jpeg
 # share-img: /assets/img/postcard_2020.jpeg
 # tags: [Research News, Science, Engineering and Technology Group, Faculty of Science Department of Physics and Astronomy, Institute of Astronomy]
-# author: Sharon Smith and Barry Simpson
+author: Elisa Nelissen, Katrien Bollen
 ---
 
 Astronomers present an explanation for the mesmerising shapes of planetary nebulae. The discovery is based on an extraordinary set of observations of stellar winds around ageing stars.
 
 Contrary to common consensus, the team found that stellar winds are not spherical but have a shape similar to that of planetary nebulae. The team concludes that interaction with an accompanying star or exoplanet shapes both the stellar winds and planetary nebulae. The findings were published in *Science*.
 
+<a class="button" href="#interview">Watch the interview with Leen Decin</a>
 <figure>
     <img src="/assets/img/postcard_2020.jpeg"
          alt="ATOMIUM postcard">
@@ -48,3 +49,14 @@ The study also helps to envision what the Sun might look like when it dies in 70
 
 The study is part of the ATOMIUM project, which aims to learn more about the physics and chemistry of old stars. “Cool ageing stars are considered to be boring, old and simple, but we now prove that they are not: they tell the story of what comes after. It took us some time to realise that stellar winds can have the shape of rose petals (see, for example, the stellar wind of R Aquilae), but, as Antoine de Saint-Exupéry said in his book *Le Petit Prince: ‘C’est le temps que tu as perdu pour ta rose, qui fait ta rose si importante’* – ‘It’s the time you spent on your rose that makes your rose so important’,” Decin concludes.
 
+## Watch the interview with Leen Decin
+
+<div class="responsive-iframe" id="interview">
+<iframe width="100%" height="100%" src="https://youtube.be/embed/Rxq5NThg_2w?controls=0">
+</iframe>
+</div>
+
+## More information
+The study “(Sub-)stellar companions shape the winds of evolved stars” by Leen Decin et al. was published in [Science (doi: 10.1126/science.abb1229)](https://www.science.org/doi/10.1126/science.abb1229). This research was funded by ERC and FWO, among others.  
+
+[Find out more about the ALMA telescope.](https://www.eso.org/public/teles-instr/alma/)
