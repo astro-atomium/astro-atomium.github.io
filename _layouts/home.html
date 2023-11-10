@@ -54,14 +54,6 @@ layout: page
         Posted on {{ post.date | date: date_format }}
       </p>
 
-      {% if thumbnail != "" %}
-      <div class="post-image post-image-small">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-        </a>
-      </div>
-      {% endif %}
-
       {% unless site.feed_show_excerpt == false %}
       <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
@@ -71,6 +63,7 @@ layout: page
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
+      {% endunless %}
 
       {% if thumbnail != "" %}
       <div class="post-image">
@@ -79,7 +72,6 @@ layout: page
         </a>
       </div>
       {% endif %}
-      {% endunless %}
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
