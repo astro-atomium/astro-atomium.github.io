@@ -34,51 +34,52 @@ td, th {
 ## CoI's
 
 | **Surname** | **Name** | **Affiliation**                                       |
-| Montargès | Miguel | Institute of Astronomy, KU Leuven (Belgium)
-| Homan | Ward | Institute of Astronomy, KU Leuven (Belgium) |
-| Danilovich | Taissa | Institute of Astronomy, KU Leuven (Belgium) |
-| de Koter | Alex | Astronomical Institute Anton Pannekoek, University of Amsterdam (the Netherlands)
-| Menten | Karl | Max-Planck-Institut für Radioastronomie (Germany) |
-| Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
-| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
-| Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
-| Plane | John | University of Leeds (UK) |
-| Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
-| Müller | Holger | I. Physikalisches Institut, Universität zu Köln (Germany) |
-| Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
-| De Beck | Elvire | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
-| Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Baudry | Alain | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
-| Wong | Ka Tat | Institut de Radioastronomie Millimétrique (France) |
-| Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
-| Millar | Tom | Astrophysics Research Centre, Queen's University Belfast,  (UK) |
-| Van de Sande | Marie | Institute of Astronomy, KU Leuven (Belgium) |
-| Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
-| Gobrecht | David | Institute of Astronomy, KU Leuven (Belgium) |
-| Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
-| Yates | Jeremy | Blackett Laboratory, Imperial College London (UK) |
-| Price | Daniel | Monash Centre for Astrophysics (Australia) |
-| Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
+| De Beck | Elvire | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Bolte | Jan | Institute of Astronomy, KU Leuven (Belgium) |
-| Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
+| Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
+| Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
+| Danilovich | Taissa | School of Physics & Astronomy, Monash University (Australia) |
 | De Ceuster | Frederik | Institute of Astronomy, KU Leuven (Belgium) |
-| Herpin | Fabrice | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
-| Nuth | Joe | NASA/GSFC (MD, USA) |
-| Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
-| Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
-| Zijlstra | Albert | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
-| Kee | Dylan | Institute of Astronomy, KU Leuven (Belgium) |
-| Grey | Malcom | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
+| de Koter | Alex | Astronomical Institute Anton Pannekoek, University of Amsterdam (the Netherlands) |
+| El Mellah | Ileyk | CIRAS, Universidad de Santiago de Chile (Chile) |
+| Esseldeurs | Mats | Institute of Astronomy, KU Leuven (Belgium) |
 | Etoka | Sandra | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
+| Gobrecht | David | Department of Chemistry & Molecular Biology, Gothenburg University (Sweden) |
+| Gottlieb | Elaine | School of Engineering and Applied Sciences and Department of Earth and Planetary Sciences, Harvard University (US) |
+| Grey | Malcolm | National Astronomical Research Institute of Thailand (Thailand) |
+| Herpin | Fabrice | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
+| Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Jeste | Manali | Max-Planck-Institut für Radioastronomie (Germany) |
-Gottlieb | Elaine | School of Engineering and Applied Sciences and Department of Earth and Planetary Sciences, Harvard University (US) |
-| McDonald | Iain | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
-| Pimpanuwat | Bannawit | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
-| El Mellah | Ileyk | Center for Mathematical Plasma-Astrophysics, KU Leuven (Belgium) |
+| Kervella | Pierre | LESIA, Observatoire de Paris (France) |
+| Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
+| Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
 | Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
 | Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
-| Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
 | Marinho | Louise | University of Bordeaux (France) |
-| Mats | Esseldeurs | Institute of Astronomy, KU Leuven (Belgium) |
-| Lionel | Siess | Université Libre de Bruxelles (Belgium) |
-| Arnoud | Coenegrachts | Institute of Astronomy, KU Leuven (Belgium) |
+| McDonald | Iain | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
+| Menten | Karl | Max-Planck-Institut für Radioastronomie (Germany) |
+| Millar | Tom | Astrophysics Research Centre, Queen's University Belfast, (UK) |
+| Montargès | Miguel | LESIA, Observatoire de Paris (France) |
+| Müller | Holger | I. Physikalisches Institut, Universität zu Köln (Germany) |
+| Nuth | Joe | NASA/GSFC (MD, USA) |
+| Pimpanuwat | Bannawit | National Astronomical Research Institute of Thailand (Thailand) |
+| Plane | John | University of Leeds (UK) |
+| Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
+| Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
+| Van de Sande | Marie | Leiden Observatory (Netherlands) |
+| Lionel | Siess | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
+| Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
+| Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
+| Wong | Ka Tat | Deptartment of Physics & Astronomy, Uppsala University (Sweden) |
+| Yates | Jeremy | Blackett Laboratory, Imperial College London (UK) |
+| Zijlstra | Albert | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
+
+| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
+| Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
+| Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
+| Price | Daniel | Monash Centre for Astrophysics (Australia) |
+| Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
+| Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
+| Kee | Dylan | Institute of Astronomy, KU Leuven (Belgium) |
+| Coenegrachts | Arnoud | Institute of Astronomy, KU Leuven (Belgium) |
