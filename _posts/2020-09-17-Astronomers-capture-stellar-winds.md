@@ -52,7 +52,7 @@ The study is part of the ATOMIUM project, which aims to learn more about the phy
 ## Watch the interview with Leen Decin
 
 <div class="responsive-iframe" id="interview">
-<iframe width="100%" height="100%" src="https://youtube.be/embed/Rxq5NThg_2w?controls=0">
+<iframe width="100%" height="100%" src="https://youtube.be/embed/Rxq5NThg_2w">
 </iframe>
 </div>
 
