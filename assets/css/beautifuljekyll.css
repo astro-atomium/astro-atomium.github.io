@@ -448,14 +448,15 @@ footer .footer-custom-content {
 }
 
 .post-preview {
-  padding: 1.25rem 0;
+  padding: 0 0;
   border-bottom: 1px solid #eee;
+  margin-bottom: 1.875rem;
   overflow: hidden;
 }
 
 @media (min-width: 768px) {
   .post-preview {
-    padding: 2.1875rem 0;
+    padding: 0 0;
   }
 }
 
@@ -734,7 +735,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .responsive-iframe {
-  margin-top:75px;
+  margin-top:25px;
   position: relative;
   width: 100%;
   padding-bottom: 56.25%; /* for 16:9 aspect ratio */
