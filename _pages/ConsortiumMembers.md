@@ -68,7 +68,7 @@ td, th {
 | Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
-| Lionel | Siess | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
+| Siess | Lionel | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
 | Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
 | Wong | Ka Tat | Deptartment of Physics & Astronomy, Uppsala University (Sweden) |
