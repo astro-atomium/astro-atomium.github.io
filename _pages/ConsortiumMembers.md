@@ -51,6 +51,7 @@ td, th {
 | Herpin | Fabrice | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
 | Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Jeste | Manali | Max-Planck-Institut für Radioastronomie (Germany) |
+| Kee | Dylan | National Solar Observatory, (US) |
 | Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
@@ -65,6 +66,8 @@ td, th {
 | Nuth | Joe | NASA/GSFC (MD, USA) |
 | Pimpanuwat | Bannawit | National Astronomical Research Institute of Thailand (Thailand) |
 | Plane | John | University of Leeds (UK) |
+| Price | Daniel | Monash Centre for Astrophysics (Australia) |
+| Steven | Rieder | Institute of Astronomy, KU Leuven (Belgium) |
 | Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
@@ -78,8 +81,6 @@ td, th {
 | Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
 | Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
-| Price | Daniel | Monash Centre for Astrophysics (Australia) |
 | Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
 | Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
-| Kee | Dylan | Institute of Astronomy, KU Leuven (Belgium) |
 | Coenegrachts | Arnoud | Institute of Astronomy, KU Leuven (Belgium) |
