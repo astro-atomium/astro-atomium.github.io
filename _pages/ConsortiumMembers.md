@@ -66,7 +66,7 @@ td, th {
 | Pimpanuwat | Bannawit | National Astronomical Research Institute of Thailand (Thailand) |
 | Plane | John | University of Leeds (UK) |
 | Price | Daniel | Monash Centre for Astrophysics (Australia) |
-| Steven | Rieder | Institute of Astronomy, KU Leuven (Belgium) |
+| Rieder | Steven | Institute of Astronomy, KU Leuven (Belgium) |
 | Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
