@@ -26,3 +26,5 @@ td, th {
 | 28 May 2019 | - | ATOMIUM videoconference I |
 | 12-14 Feb. 2019 | Manchester (UK) | [ATOMIUM Data Reduction Meeting I](https://fys.kuleuven.be/ster/events/conferences/2019/atomium-manchester-meeting) |
 | 30 Oct. 2018 | Brussels (Belgium) | [Kick-off meeting](https://fys.kuleuven.be/ster/events/conferences/2018/atomium-kick-off-meeting/atomium-kick-off-meeting) |
+
+![Meetings](/assets/img/Meeting.JPG)

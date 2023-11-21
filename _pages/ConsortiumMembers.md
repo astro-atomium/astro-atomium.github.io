@@ -37,7 +37,6 @@ td, th {
 | Baudry | Alain | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
 | De Beck | Elvire | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Bolte | Jan | Institute of Astronomy, KU Leuven (Belgium) |
-| Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
 | Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
 | Danilovich | Taissa | School of Physics & Astronomy, Monash University (Australia) |
 | De Ceuster | Frederik | Institute of Astronomy, KU Leuven (Belgium) |
@@ -49,12 +48,12 @@ td, th {
 | Gottlieb | Elaine | School of Engineering and Applied Sciences and Department of Earth and Planetary Sciences, Harvard University (US) |
 | Grey | Malcolm | National Astronomical Research Institute of Thailand (Thailand) |
 | Herpin | Fabrice | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
-| Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Jeste | Manali | Max-Planck-Institut für Radioastronomie (Germany) |
 | Kee | Dylan | National Solar Observatory, (US) |
 | Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
+| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
 | Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
 | Marinho | Louise | University of Bordeaux (France) |
@@ -78,9 +77,13 @@ td, th {
 | Yates | Jeremy | Blackett Laboratory, Imperial College London (UK) |
 | Zijlstra | Albert | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 
-| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
-| Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
-| Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
+## Former members
+
+| **Surname** | **Name** | **Affiliation**                                       |
 | Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
-| Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
+| Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
 | Coenegrachts | Arnoud | Institute of Astronomy, KU Leuven (Belgium) |
+| Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
+| Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
+| Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
+| Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
