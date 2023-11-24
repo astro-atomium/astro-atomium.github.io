@@ -18,7 +18,8 @@ td, th {
 </style>
 
 | **Dates** | **Location** | **Purpose** |
-| 23-25 Oct. 2023 | Leuven (Belgium) | [ATOMIUM 2023 Meeting](https://fys.kuleuven.be/ster/research-projects/aerosol/atomium/atomium-meeting-2023)
+| 23-25 Oct. 2023 | Leuven (Belgium) | [ATOMIUM 2023 Summer Meeting](https://fys.kuleuven.be/ster/research-projects/aerosol/atomium/atomium-meeting-2023) |
+| 08-10 Mar. 2023 | Meudon (France) | [ATOMIUM 2023 Winter Meeting](https://atomium23winter.sciencesconf.org/) |
 | 27-28 Sept. 2022 | Meudon (France) | [ATOMIUM 2022 Meeting](https://atomium2022.sciencesconf.org/) |
 | 15 Apr. 2020 | - | ATOMIUM videoconference III |
 | 23-25 Sept. 2019 | Manchester (UK) | ATOMIUM Data Reduction Meeting II |
