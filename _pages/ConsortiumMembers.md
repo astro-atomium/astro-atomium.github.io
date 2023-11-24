@@ -46,7 +46,7 @@ td, th {
 | Etoka | Sandra | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Gobrecht | David | Department of Chemistry & Molecular Biology, Gothenburg University (Sweden) |
 | Gottlieb | Elaine | School of Engineering and Applied Sciences and Department of Earth and Planetary Sciences, Harvard University (US) |
-| Grey | Malcolm | National Astronomical Research Institute of Thailand (Thailand) |
+| Gray | Malcolm | National Astronomical Research Institute of Thailand (Thailand) |
 | Herpin | Fabrice | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
 | Jeste | Manali | Max-Planck-Institut für Radioastronomie (Germany) |
 | Kee | Dylan | National Solar Observatory, (US) |
