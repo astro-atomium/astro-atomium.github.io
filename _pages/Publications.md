@@ -35,13 +35,13 @@ permalink: /Publications
 
 * Danilovich, T., Gottlieb, C. A., Decin, L., et al. “Rotational Spectra of Vibrationally Excited AlO and TiO in Oxygen-rich Stars”, 2020, ApJ, 904, 110; [doi:10.3847/1538-4357/abc079](https://doi.org/10.3847/1538-4357/abc079)
 
-* Homan, W., Boulangier, J., Decin, L.., and de Koter, A. ”Simplified models of circumstellar morphologies for interpreting high-resolution data. Analytical approach to the equatorial density enhancement”, 2016, A&amp;A, 596, A91; [doi:10.1051/0004-6361/201528000](https://doi.org/10.1051/0004-6361/201528000)
+* Homan, W., Boulangier, J., Decin, L., and de Koter, A. ”Simplified models of circumstellar morphologies for interpreting high-resolution data. Analytical approach to the equatorial density enhancement”, 2016, A&amp;A, 596, A91; [doi:10.1051/0004-6361/201528000](https://doi.org/10.1051/0004-6361/201528000)
 
 ## ATOMIUM Motivated
 ### Chemistry
 * Gobrecht, D., Hashemi, S. R., Plane, J. M. C., et al., “Bottom-up dust nucleation theory in oxygen-rich evolved stars. II. Magnesium and calcium aluminate clusters”. 2023, A&amp;A, in press
 
-* Maes, S.; Van de Sande, M.; Danilovich, T. et al., ”Sensitivity study of chemistry in AGB outflows using chemical kinetics”, 2023, MNRAS,522, 4654; [doi:10.1093/mnras/stad1152](https://doi.org/10.1093/mnras/stad1152)
+* Maes, S.; Van de Sande, M.; Danilovich, T. et al., ”Sensitivity study of chemistry in AGB outflows using chemical kinetics”, 2023, MNRAS, 522, 4654; [doi:10.1093/mnras/stad1152](https://doi.org/10.1093/mnras/stad1152)
 
 * Gobrecht, D., Plane, J. M. C.. Bromley, S. T., et al., ”Bottom-up dust nucleation theory in oxygen-rich evolved stars. I. Aluminum oxide clusters”. 2022, A&amp;A, 658, 167; [doi:10.1051/0004-6361/202141976](https://doi.org/10.1051/0004-6361/202141976)
 
@@ -62,4 +62,7 @@ permalink: /Publications
 
 * El Mellah, I., Bolte, J., Decin, L., et al., ”Wind morphology around cool evolved stars in binaries. The case of slowly accelerating oxygen-rich outflows”, 2020, A&amp;A, 637, A91; [doi:10.1051/0004-6361/202037492](https://doi.org/10.1051/0004-6361/202037492)
 
-  
+### Radiation Transfer
+* F. De Ceuster, T. Ceulemans, J. Cockayne, et al., "Radiative Transfer as a Bayesian Linear Regression problem", 2023, MNRAS, 518, 4; [doi:10.1093/mnras/stac3461](https://doi.org/10.1093/mnras/stac3461)
+
+* A., Coenegrachts, A., Danilovich, T., De Ceuster, F. and Decin, L., "The unusual 3D distribution of NaCl around the asymptotic giant branch star IK Tau", 2023, A&amp;A, 678, A85; [doi:10.1051/0004-6361/202346116](https://doi.org/10.1051/0004-6361/202346116)
