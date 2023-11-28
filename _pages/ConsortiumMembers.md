@@ -23,7 +23,7 @@ td, th {
 | PI         | Decin       | Leen     | Institute of Astronomy, KU Leuven (Belgium)           |
 | CoPI       | Gottlieb    | Carl     | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
 
-## Science Working Group and leaders
+## Groups
 * Data Reduction: A. Richards
 * Spectral line identification: C. Gottlieb
 * Retrieval wind models: L. Decin
@@ -82,7 +82,7 @@ td, th {
 | **Surname** | **Name** | **Affiliation**                                       |
 | Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
 | Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
-| Coenegrachts | Arnoud | Institute of Astronomy, KU Leuven (Belgium) |
+| Coenegrachts | Arnout | Institute of Astronomy, KU Leuven (Belgium) |
 | Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
 | Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |

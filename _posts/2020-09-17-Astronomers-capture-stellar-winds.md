@@ -1,12 +1,10 @@
 ---
 layout: post
-title: The first ATOMIUM result is out !
+title: From the very first result
 subtitle: Astronomers capture stellar winds in unprecedented detail
 cover-img: /assets/img/R-Aquilae.jpg
 thumbnail-img: /assets/img/postcard_2020.jpeg
-# share-img: /assets/img/postcard_2020.jpeg
-# tags: [Research News, Science, Engineering and Technology Group, Faculty of Science Department of Physics and Astronomy, Institute of Astronomy]
-author: Elisa Nelissen, Katrien Bollen
+author: Leen Decin, Carl Gottlieb
 ---
 
 Astronomers present an explanation for the mesmerising shapes of planetary nebulae. The discovery is based on an extraordinary set of observations of stellar winds around ageing stars.
