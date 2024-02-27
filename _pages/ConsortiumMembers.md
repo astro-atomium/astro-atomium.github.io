@@ -35,7 +35,6 @@ td, th {
 
 | **Surname** | **Name** | **Affiliation**                                       |
 | Baudry | Alain | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
-| De Beck | Elvire | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Bolte | Jan | Institute of Astronomy, KU Leuven (Belgium) |
 | Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
 | Danilovich | Taissa | School of Physics & Astronomy, Monash University (Australia) |
@@ -53,7 +52,6 @@ td, th {
 | Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
-| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
 | Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
 | Marinho | Louise | University of Bordeaux (France) |
@@ -83,7 +81,9 @@ td, th {
 | Boulangier | Jels | Institute of Astronomy, KU Leuven (Belgium) |
 | Cannon | Emily | Institute of Astronomy, KU Leuven (Belgium) |
 | Coenegrachts | Arnout | Institute of Astronomy, KU Leuven (Belgium) |
+| De Beck | Elvire | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Homan | Ward | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
 | Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
+| Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
