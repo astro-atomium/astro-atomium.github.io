@@ -52,6 +52,7 @@ td, th {
 | Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
+| Lewis | Megan | Leiden Observatory (Netherlands) |
 | Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
 | Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
 | Marinho | Louise | University of Bordeaux (France) |
