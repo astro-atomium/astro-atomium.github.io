@@ -70,6 +70,7 @@ td, th {
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
 | Siess | Lionel | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
+| Vermeulen | Owen | Institute of Astronomy, KU Leuven (Belgium) |
 | Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
 | Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
 | Wong | Ka Tat | Deptartment of Physics & Astronomy, Uppsala University (Sweden) |
