@@ -72,7 +72,6 @@ td, th {
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
 | Siess | Lionel | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | Vermeulen | Owen | Institute of Astronomy, KU Leuven (Belgium) |
-| Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
 | Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
 | Wong | Ka Tat | Deptartment of Physics & Astronomy, Uppsala University (Sweden) |
 | Yates | Jeremy | Blackett Laboratory, Imperial College London (UK) |
@@ -90,3 +89,4 @@ td, th {
 | Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
 | Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
+| Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
