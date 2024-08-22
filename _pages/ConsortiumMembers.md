@@ -38,6 +38,7 @@ td, th {
 | Bolte | Jan | Institute of Astronomy, KU Leuven (Belgium) |
 | Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
 | Danilovich | Taissa | School of Physics & Astronomy, Monash University (Australia) |
+| Dionese | Davide | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | De Ceuster | Frederik | Institute of Astronomy, KU Leuven (Belgium) |
 | de Koter | Alex | Astronomical Institute Anton Pannekoek, University of Amsterdam (the Netherlands) |
 | El Mellah | Ileyk | CIRAS, Universidad de Santiago de Chile (Chile) |
