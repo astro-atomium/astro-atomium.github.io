@@ -35,11 +35,11 @@ td, th {
 
 | **Surname** | **Name** | **Affiliation**                                       |
 | Baudry | Alain | Laboratoire d'astrophysique de Bordeaux, Univ. Bordeaux (France) |
-| Bolte | Jan | Institute of Astronomy, KU Leuven (Belgium) |
+| Bolte | Jan | Department of Mathematics, Kiel University (Germany) |
 | Ceulemans | Thomas | Institute of Astronomy, KU Leuven (Belgium) |
 | Danilovich | Taissa | School of Physics & Astronomy, Monash University (Australia) |
 | Dionese | Davide | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
-| De Ceuster | Frederik | Institute of Astronomy, KU Leuven (Belgium) |
+| De Ceuster | Frederik | Institute of Astronomy and Leuven Gravity Institute, KU Leuven (Belgium) |
 | de Koter | Alex | Astronomical Institute Anton Pannekoek, University of Amsterdam (the Netherlands) |
 | El Mellah | Ileyk | CIRAS, Universidad de Santiago de Chile (Chile) |
 | Esseldeurs | Mats | Institute of Astronomy, KU Leuven (Belgium) |
@@ -54,8 +54,6 @@ td, th {
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
 | Lewis | Megan | Leiden Observatory (Netherlands) |
-| Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
-| Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
 | Marinho | Louise | University of Bordeaux (France) |
 | McDonald | Iain | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Menten | Karl | Max-Planck-Institut für Radioastronomie (Germany) |
@@ -67,7 +65,6 @@ td, th {
 | Plane | John | University of Leeds (UK) |
 | Price | Daniel | Monash Centre for Astrophysics (Australia) |
 | Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
-| Rieder | Steven | Institute of Astronomy, KU Leuven (Belgium) |
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
 | Van de Sande | Marie | Leiden Observatory (Netherlands) |
 | Siess | Lionel | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
@@ -88,5 +85,8 @@ td, th {
 | Keller | Denise | Institute of Astronomy, KU Leuven (Belgium) |
 | Lee | Kelvin | Harvard-Smithsonian Center for Astrophysics (MA, USA) |
 | Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
+| Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
+| Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
+| Rieder | Steven | Institute of Astronomy, KU Leuven (Belgium) |
 | Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
 | Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
