@@ -58,7 +58,6 @@ td, th {
 | McDonald | Iain | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Menten | Karl | Max-Planck-Institut für Radioastronomie (Germany) |
 | Millar | Tom | Astrophysics Research Centre, Queen's University Belfast, (UK) |
-| Montargès | Miguel | LESIA, Observatoire de Paris - PSL (France) |
 | Müller | Holger | I. Physikalisches Institut, Universität zu Köln (Germany) |
 | Nuth | Joe | NASA/GSFC (MD, USA) |
 | Pimpanuwat | Bannawit | National Astronomical Research Institute of Thailand (Thailand) |
@@ -87,6 +86,7 @@ td, th {
 | Maercker | Matthias | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Maes | Silke | Institute of Astronomy, KU Leuven (Belgium) |
 | Malfait | Jolien | Institute of Astronomy, KU Leuven (Belgium) |
+| Montargès | Miguel | LESIA, Observatoire de Paris - PSL (France) |
 | Rieder | Steven | Institute of Astronomy, KU Leuven (Belgium) |
 | Sindel | Jan Philip | Institute of Astronomy, KU Leuven (Belgium) |
 | Wallstrom | Sofia | Institute of Astronomy, KU Leuven (Belgium) |
