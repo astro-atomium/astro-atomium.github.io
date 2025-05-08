@@ -41,6 +41,7 @@ td, th {
 | Dionese | Davide | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
 | De Ceuster | Frederik | Institute of Astronomy and Leuven Gravity Institute, KU Leuven (Belgium) |
 | de Koter | Alex | Astronomical Institute Anton Pannekoek, University of Amsterdam (the Netherlands) |
+| Driessen | Florian | Institute of Astronomy, KU Leuven (Belgium) |
 | El Mellah | Ileyk | CIRAS, Universidad de Santiago de Chile (Chile) |
 | Esseldeurs | Mats | Institute of Astronomy, KU Leuven (Belgium) |
 | Etoka | Sandra | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
@@ -53,6 +54,7 @@ td, th {
 | Kervella | Pierre | LESIA, Observatoire de Paris (France) |
 | Khouri | Theo | Chalmers University of Technology, Onsala Space Observatory (Sweden) |
 | Lagadec | Eric | Lagrange, Observatoire de la Côte d'Azur (France) |
+| Landri | Camille | Institute of Astronomy, KU Leuven (Belgium) |
 | Lewis | Megan | Leiden Observatory (Netherlands) |
 | Marinho | Louise | University of Bordeaux (France) |
 | McDonald | Iain | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
