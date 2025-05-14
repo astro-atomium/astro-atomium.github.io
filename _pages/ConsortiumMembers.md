@@ -67,8 +67,8 @@ td, th {
 | Price | Daniel | Monash Centre for Astrophysics (Australia) |
 | Richards | Anita | Jodrell Bank Centre for Astrophysics, University of Manchester (UK) |
 | Sahai | Raghvendra | Jet Propulsion Laboratory (CA, USA) |
-| Van de Sande | Marie | Leiden Observatory (Netherlands) |
 | Siess | Lionel | Institut d’Astronomie et d’Astrophysique, ULB Brussels (Belgium) |
+| Van de Sande | Marie | Leiden Observatory (Netherlands) |
 | Vermeulen | Owen | Institute of Astronomy, KU Leuven (Belgium) |
 | Waters | Rens | SRON Netherlands Institute for Space Research (Netherlands) Astronomical Institute Anton Pannekoek, University of Amsterdam (Netherlands) |
 | Wong | Ka Tat | Deptartment of Physics & Astronomy, Uppsala University (Sweden) |
