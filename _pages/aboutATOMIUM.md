@@ -16,4 +16,6 @@ Over 200 molecules and 15 dust species have been detected in the ISM, stellar wi
 ## Contact
 Collaborations are always welcome. Please contact [Leen Decin](mailto:leen.decin@kuleuven.be) for more information about the ATOMIUM project, potential partnerships, or to discuss related research opportunities. We encourage researchers, students, and institutions with an interest in astrochemistry, stellar evolution, or related fields to reach out and explore ways to contribute to or benefit from this exciting initiative.
 
+![ATOMIUM postcard](/assets/img/postcard_ATOMIUM_full.png)
+
 ![logos](/assets/img/logos.jpeg)
