@@ -18,6 +18,7 @@ td, th {
 </style>
 
 | **Dates** | **Location** | **Purpose** |
+| 12-14 Oct. 2025 | Bordeaux (France) | ATOMIUM 2025 Summer Meeting |
 | 23-25 Oct. 2023 | Leuven (Belgium) | [ATOMIUM 2023 Summer Meeting](https://fys.kuleuven.be/ster/research-projects/aerosol/atomium/atomium-meeting-2023) |
 | 08-10 Mar. 2023 | Meudon (France) | [ATOMIUM 2023 Winter Meeting](https://atomium23winter.sciencesconf.org/) |
 | 27-28 Sept. 2022 | Meudon (France) | [ATOMIUM 2022 Meeting](https://atomium2022.sciencesconf.org/) |
