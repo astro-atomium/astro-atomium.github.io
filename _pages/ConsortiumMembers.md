@@ -26,7 +26,7 @@ td, th {
 ## Groups
 * Data Reduction: A. Richards
 * Spectral line identification: C. Gottlieb
-* Retrieval wind models: L. Decin
+* Retrieval wind models: T. Danilovich
 * Forward wind models (including hydrodynamics and chemistry): J. Yates
 * Theoretical and experimental chemistry: J. Plane, M. Van de Sande
 * Other observing proposals: M. Montargès
