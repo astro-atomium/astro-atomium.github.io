@@ -28,7 +28,7 @@ td, th {
 * Spectral line identification: C. Gottlieb
 * Retrieval wind models: L. Decin
 * Forward wind models (including hydrodynamics and chemistry): J. Yates
-* Theoretical and experimental chemistry: J. Plane
+* Theoretical and experimental chemistry: J. Plane, M. Van de Sande
 * Other observing proposals: M. Montargès
 
 ## CoI's
